@@ -84,22 +84,22 @@ section h2{
   text-shadow: 10px 10px 3px rgba(0,0,0, 0.2);
 }
 #home{
-  background: url(ds3.jpg);
+  background: url(ds3.png);
   background-repeat: no-repeat;
    background-size: 1450px 750px;
 }
 #about{
-  background: url(absolver.jpg);
+  background: url(absolver.png);
   background-repeat: no-repeat;
    background-size: 1450px 750px
 }
 #services{
-  background: url(skyrim.jpg);
+  background: url(skyrim.png);
   background-repeat: no-repeat;
    background-size: 1450px 750px
 }
 #pricing{
-  background: url(roblox.jpg);
+  background: url(roblox.png);
   background-repeat: no-repeat;
    background-size: 1450px 750px;
 }
